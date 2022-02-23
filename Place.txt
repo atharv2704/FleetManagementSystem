@@ -1,0 +1,15 @@
+0 Bangalore
+1 Mangalore
+2 Hubli
+3 Panaji
+4 Belgaum
+5 Calangute
+6 Vasco
+7 Karwar
+8 Dandeli
+9 Gokarna
+10 Kumta
+11 Sirsi
+12 Davengere
+13 Madikeri
+14 Tumkur
